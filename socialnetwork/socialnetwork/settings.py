@@ -87,7 +87,7 @@ DATABASES = {
         'NAME': 'socialnetwork_db',
         'USER': 'root',
         'PASSWORD': 'Poonam6201@',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': '3306',
     }
 }
