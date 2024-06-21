@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/socialProject.git
+   git clone https://github.com/hubgitpoonam/SocialAppApi.git
    cd socialProject
 
 2. python -m venv venv
