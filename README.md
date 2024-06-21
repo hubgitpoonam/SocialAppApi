@@ -5,17 +5,17 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/hubgitpoonam/SocialAppApi.git
-   cd socialProject
+   cd socialnetwork
 
-2. python -m venv venv
+2. python -m venv senv
 
 3. Activate the virtual environment:
 
         On Windows:
-        .\venv\Scripts\activate
+        .\senv\Scripts\activate
 
         On macOS/Linux:
-        source venv/bin/activate
+        source senv/bin/activate
 
 4. pip install -r requirements.txt
 
