@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tz%rpnbk_p$s3tuu*zwoe-n59^sykq3l79x0!5!)t!qir+5kl9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0']
 
 
 AUTH_USER_MODEL = 'socialapp.User'
@@ -76,6 +76,9 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'socialnetwork.wsgi.application'
+
+
+
 
 
 # Database
